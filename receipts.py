@@ -1,0 +1,12 @@
+item1 = input("what is the  first item? -->")
+price1 = float(input("What is the price? --> "))
+item2 = input("what is the  second item? -->")
+price2 = float(input("What is the price? --> "))
+item3 = input("what is the  third item? -->")
+price3 = float(input("What is the price? --> "))
+
+print(item1 + " " , price1)
+print(item2 + " " , price2)
+print(item3 + " " , price3)
+print("_______________")
+print(price1 + price2 + price3)
